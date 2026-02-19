@@ -11,12 +11,12 @@ This project investigates how network analysis techniques can be used to detect 
 
 This project uses the Enron Email Network dataset provided by the Stanford Large Network Dataset Collection (SNAP) [2]. The dataset contains email communication records between Enron employees. Nodes represent unique email accounts, and directed edges represent email exchanges between accounts. The network contains thousands of nodes, so try to extract a manageable to ensure at least 200 nodes while keeping analysis feasible on a standard laptop.
 
-# Dataset link: https://snap.stanford.edu/data/email-Enron.html
+**Dataset link**: https://snap.stanford.edu/data/email-Enron.html
 
 # Tasks
 This project contains 4 major tasks and are shown below:
 
-Task 1: Network Construction and Structural Characterisation
-Task 2: Broker and Intermediary Detection
-Task 3: Random Network Baseline Comparison
-Task 4: Covert Cluster and Anomaly Detection
+ Task 1: Network Construction and Structural Characterisation\
+ Task 2: Broker and Intermediary Detection\
+ Task 3: Random Network Baseline Comparison\
+ Task 4: Covert Cluster and Anomaly Detection\
